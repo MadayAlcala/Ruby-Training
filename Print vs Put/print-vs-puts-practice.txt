@@ -1,0 +1,10 @@
+rabbitantbearliongazellearmadillocatrabbit
+ant
+bear
+lion
+gazelle
+armadillo
+cat
+
+Explain difference between both commands
+-The difference between those commands is that print prints the text in a one single line and puts prints the text with an enter at the final.
